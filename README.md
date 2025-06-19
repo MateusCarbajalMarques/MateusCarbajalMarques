@@ -8,7 +8,7 @@ Desenvolvedor mobile e web. Estou sempre aprendendo. Adoro tecnologia, café e a
 
 * 🌍  I'm based in Itacoatiara Amazonas
 * ✉️  You can contact me at [mateuscarbajal@hotmail.com](mailto:mateuscarbajal@hotmail.com)
-* 🧠  I'm learning ReactJs, React Native expo, NodeJs, Express, API/REST
+* 🧠  I'm learning ReactJs, React Native expo, NodeJs, Express, Prisma,API/REST
 
 ### Skills
 
